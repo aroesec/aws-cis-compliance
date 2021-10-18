@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# Welcome to the Automating Compliance in the Cloud CDK Project!
 
-This is a blank project for TypeScript development with CDK.
+This project is owned and managed for educational purposes by Andrew Roe.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
