@@ -1,4 +1,4 @@
-# Welcome to the Automating Compliance in the Cloud CDK Project!
+# Welcome to the Automating Compliance in the Cloud CDK Project! (Deprecated, new video with AWS-CDK version 2 coming soon)
 
 This project is owned and managed for educational purposes by Andrew Roe.
 
